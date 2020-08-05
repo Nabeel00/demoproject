@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="App">
       <p>You can now view demoproject in the browser.</p>
+      <p>You can now view demoproject in the browser.</p>
     </div>
   );
 }
